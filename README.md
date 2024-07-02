@@ -13,7 +13,8 @@ Welcome to the Simon Game! This game tests your memory and sequence recall abili
 
 ## 📷 Screenshot
 ![Screenshot 2024-07-02 170449](https://github.com/TamannaaSinghh/Simon-Game/assets/158739752/9698b359-2cb1-4e49-af3e-743b2074a01f)
-
+<br>
+Game Link : https://tamannaasinghh.github.io/Simon-Game/ <br>
 ## 🛠️ Technologies Used
 HTML<br>
 CSS<br>
